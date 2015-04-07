@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTS-SURFACE</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>eee2da89-376c-4a68-8744-f602c9c941c4</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D41CBA1B6174A3551CAD1C70022D8165C626258EF8C78010CA74D61CDD8E1FDF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>eee2da89-376c-4a68-8744-f602c9c941c4_1.0.0.0_neutral__4bha6t8v6mmqe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>eee2da89-376c-4a68-8744-f602c9c941c4_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>eee2da89-376c-4a68-8744-f602c9c941c4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-07T00:08:10.886</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\SparkRGBController.Windows.exe">
+      <PackagePath>SparkRGBController.Windows.exe</PackagePath>
+      <Modified>2015-04-07T01:38:53.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-07T00:08:10.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-07T01:33:52.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\SparkRGBController.Windows.xr.xml">
+      <PackagePath>SparkRGBController.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-07T01:33:52.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\matt\OneDrive\Documents\Visual Studio 2013\Projects\SparkRGBController\SparkRGBController\SparkRGBController.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-07T00:08:10.655</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

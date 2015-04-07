@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="SparkRGBController.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SparkRGBController"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+        <TextBlock Text="Spark Core Controller " FontSize="40" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,10,10"/>
+        
+        <StackPanel Margin="10,80,0,0" HorizontalAlignment="Left" Width="400">
+            <Slider x:ConnectionId='1' x:Name="sbRed" Maximum="255" Foreground="Red"                                />
+            <Slider x:ConnectionId='2' x:Name="sbGreen" Maximum="255" Foreground="Green"                                 />
+            <Slider x:ConnectionId='3' x:Name="sbBlue" Maximum="255" Foreground="Blue"                                />
+            <TextBlock x:Name="txtRGB" Text="R:0,G:0,B:0" FontSize="20" TextWrapping="WrapWholeWords"/>
+        </StackPanel>
+    </Grid>
+</Page>
+
